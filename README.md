@@ -31,9 +31,9 @@ Mon objectif est de contribuer à des projets utiles, sécurisés et accessibles
 
 ## 📌 Projets réalisés
 
-- **App Magazine Infos** — Gestion complète des rédacteurs pour un magazine, **Flutter + Firebase**, gestion d’état via **Riverpod**  
+- **Magazine Infos – Gestion des rédacteurs** — Gestion complète des rédacteurs pour un magazine, **Flutter + Firebase**, gestion d’état via **Riverpod**  
 - **App OpenWeather API** — Accès aux données météorologiques via **API REST**  
-- **Application Flutter Firebase** — Gestion de données temps réel avec **Firebase** et **SQLite**  
+- ** Application d'émissions de streaming**
 - **Utilisation de la caméra** — Captures d’images via **image_picker** pour applications mobiles   
 
 > Tous les projets ont leurs **codes sources disponibles** dans mes repositories GitHub.  
