@@ -11,13 +11,13 @@ Mon objectif est de contribuer à des projets utiles, sécurisés et accessibles
 ## 🚀 Actuellement
 - 🌱 J’apprends **Java (Android)** et **réseaux Cisco**  
 - 🔭 Je développe des projets en **Flutter + Firebase**, **SQLite**, **MySQL** et intégration d’**API REST**  
-- 💡 Intéressé par **l’IA appliquée**, la **cybersécurité**, **l’IoT** et les **API**
+- 💡 Expert en **l’IA**, maîtrise la **cybersécurité**, **l’IoT** et les **API**
 
 ---
 
 ## 🧰 Compétences
 
-**Web** : HTML, CSS, JavaScript, PHP, Bootstrap, Tailwind, React 
+**Web** : HTML, CSS, JavaScript, PHP, Bootstrap, Tailwind, React.js , React Native
 **Mobile** : Flutter (Dart), Android (Java avancé)  
 **Base de données** : SQLite, MySQL, Firebase  
 **Back/DB** : REST API, Node.js  
@@ -41,7 +41,7 @@ Mon objectif est de contribuer à des projets utiles, sécurisés et accessibles
 ---
 
 ## 📚 Formations & Certifications
-- 🎓  Ingénieur recherche en Ingénierie électrique — Université de Lomé    
+- 🎓  Ingénieur recherche en Ingénierie électrique — Université de Lomé (CENTRE D’EXCELLENCE RÉGIONALE POUR LA MAÎTRISE DE L'EXTRICITÉ) 
 - ✅ Attestations : Google Numérique, expert développement web, Cybersécurité **OIF niveau avancé développement mobile**  
 
 ---
