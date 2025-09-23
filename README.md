@@ -17,14 +17,18 @@ Mon objectif est de contribuer à des projets utiles, sécurisés et accessibles
 
 ## 🧰 Compétences
 
-**Web** : HTML, CSS, JavaScript, PHP, Bootstrap, Tailwind, React.js , React Native
-**Mobile** : Flutter (Dart), Android (Java avancé)  
-**Base de données** : SQLite, MySQL, Firebase  
-**Back/DB** : REST API, Node.js  
-**Gestion d’état** : Riverpod  
-**Data/IA** : Python (pandas, modèles GRU pour prédiction)  
-**Réseaux & Sécurité** : Cisco, cybersécurité, récupération de comptes piratés, maîtrise de tous les réseaux sociaux  
+ Langages / Frameworks : JavaScript (React, React Native), HTML, CSS, Flutter, Dart, Java, Python
+
+Web / Backend : Node.js, REST API, Git/GitHub
+
+Outils & services : Sites123, Vite, Firebase, Git
+
+Cybersécurité : tests d’intrusion éthiques, récupération de comptes compromis, renforcement des systèmes
+
+Autres : maintenance hardware, installation panneaux solaires, réseaux 
+
 **Systèmes** : Windows 7/8/10/11, Linux  
+
 **Maintenance** : installation des systèmes d'exploitations, réparation PC, diagnostic matériel  
 
 ---
@@ -42,7 +46,8 @@ Mon objectif est de contribuer à des projets utiles, sécurisés et accessibles
 
 ## 📚 Formations & Certifications
 - 🎓  Ingénieur recherche en Ingénierie électrique — Université de Lomé (CENTRE D’EXCELLENCE RÉGIONALE POUR LA MAÎTRISE DE L'EXTRICITÉ) 
-- ✅ Attestations : Google Numérique, expert développement web, Cybersécurité **OIF niveau avancé développement mobile**  
+- ✅ Attestations : Google Numérique :expert développement web, SecNumAcademie Cybersécurité,
+- OIF niveau avancé développement mobile  
 
 ---
 
