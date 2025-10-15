@@ -37,7 +37,8 @@ Vous retrouverez ici la plupart des projets que j'ai entrepri, les projets sur l
 - Élaboration d'une plate-forme de suivi de maintenance de groupes électrogènes assisté  avec l'IA: Ract, vite, firebase , node.js,python
 -   
 
-🌐 Petits Projets Web Réalisés avec site 123
+🌐 Petits Projets Web Réalisés avec site 123.
+
 Voici une sélection de sites web que j'ai réalisés à l'aide de **SITE123**.
 Chaque projet présente un objectif et un design spécifique, allant du e-commerce à la vitrine d'entreprise.
 
