@@ -73,7 +73,8 @@ Marque de cosmétiques bio proposant des produits naturels : rouges à lèvres, 
 -  Google Numérique :expert en Web ,
 -  SecNumAcademie Cybersécurité (France): Panorama de la SSI, Sécurité de l’authentification, Sécurité sur Internet et Sécurité du poste de travail et nomadisme
 - Organisation Internationale de la Francophonie( France): Développement Mobile et Web-Niveau Avancé 
-- Cisco Networking Academy : Maitrise de la Cybersécurité 
+- Cisco Networking Academy : Maitrise de la Cybersécurité
+- Centre d'expert Maintenance Informatique( Lomé) : Installation des systèmes d'exploitations, réparation PC, diagnostic matériel
 
 ---
 
