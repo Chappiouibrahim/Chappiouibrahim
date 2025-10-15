@@ -6,22 +6,16 @@ Je conçois des **sites web modernes**, des **applications mobiles**, des **solu
 Je suis également formé en **maintenance informatique, réseaux, télécommunications et sécurité des systèmes**.  
 Mon objectif est de contribuer à des projets utiles, sécurisés et accessibles.
 
----
 
-## 🚀 Actuellement
-- 🌱 J’apprends **Java (Android)** et **réseaux Cisco**  
-- 🔭 Je développe des projets en **Flutter + Firebase**, **SQLite**, **MySQL** et intégration d’**API REST**  
-- 💡 Expert en **l’IA**, maîtrise la **cybersécurité**, **l’IoT** et les **API**
-
----
 
 ## 🧰 Compétences
+Cette liste n'est pas exhaustive. Elle représente les principales technologies avec lesquelles j'ai déjà eu à travailler. Je suis toutefois prêt à m'adapter et à monter en compétences
 
- Langages / Frameworks : JavaScript (React, React Native), HTML, CSS, Flutter, Dart, Java, Python
+ Langages / Frameworks : JavaScript (React, React Native), HTML, CSS, Flutter, Dart, Java, Python, Php
 
 Web / Backend : Node.js, REST API, Git/GitHub
 
-Outils & services : Sites123, Vite, Firebase, Git
+Outils & services : Sites123, Vite, Firebase, Git, Wordpress 
 
 Cybersécurité : tests d’intrusion éthiques, récupération de comptes compromis, renforcement des systèmes
 
@@ -33,21 +27,47 @@ Autres : maintenance hardware, installation panneaux solaires, réseaux
 
 ---
 
-## 📌 Projets réalisés
-
-- **Magazine Infos – Gestion des rédacteurs** — Gestion complète des rédacteurs pour un magazine, **Flutter + Firebase**, gestion d’état via **Riverpod**  
+## 📌Projets Réalisés 
+Vous retrouverez ici la plupart des projets que j'ai entrepri, les projets sur les quels j'ai considérablement pris part et l'ensemble des missions non confidentielles et presonnels sur lesquelles j'ai travaillé.
+   
+- **Magazine Infos – Gestion complète des rédacteurs pour un magazine, **Flutter + Firebase**, gestion d’état via **Riverpod**  
 - **App OpenWeather API** — Accès aux données météorologiques via **API REST**  
 - ** Application d'émissions de streaming**
-- **Utilisation de la caméra** — Captures d’images via **image_picker** pour applications mobiles   
+- **Utilisation de la caméra** — Captures d’images via **image_picker** pour applications mobiles 
+- Élaboration d'une plate-forme de suivi de maintenance de groupes électrogènes assisté  avec l'IA: Ract, vite, firebase , node.js,python
+-   
 
-> Tous les projets ont leurs **codes sources disponibles** dans mes repositories GitHub.  
+🌐 Petits Projets Web Réalisés avec site 123
+Voici une sélection de sites web que j'ai réalisés à l'aide de **SITE123**. Chaque projet présente un objectif et un design spécifique, allant du e-commerce à la vitrine d'entreprise.
 
----
+## 1. Élégance & Style – Sarahzou Shop
+**URL** : [67b22297ce592.site123.me](https://67b22297ce592.site123.me)
+**Description** :  
+Boutique en ligne dédiée à la mode et à l'élégance, proposant des produits tels que basins, tissus, chaussures, vestes, parfums, pagnes, montres et sacs, ainsi qu'un service de pressing haut de gamme.
+
+## 2. Maël Shopping Club
+**URL** : [685db7df764c4.site123.me](https://685db7df764c4.site123.me) 
+**Description** :  
+Plateforme de commerce en ligne offrant une gamme variée de produits : chaussures, montres, vestes, robes, sacs et basins.
+
+ ## 3. Ingénieur.Recherche Chappi
+**URL** : [6790ae51b025f.site123.me](https://6790ae51b025f.site123.me) 
+**Description** :  
+Site vitrine présentant les services d'une entreprise spécialisée dans les solutions technologiques et énergétiques : développement de logiciels, conseil informatique, maintenance, installation de panneaux solaires, création de sites web et applications mobiles, et formations pour débutants.
+
+## 4. Yousss – BB Cosmétique
+**URL** : [6788442c925ab.site123.me](https://6788442c925ab.site123.me)  
+**Description** :  
+Marque de cosmétiques bio proposant des produits naturels : rouges à lèvres, crèmes anti-âge, crèmes hydratantes et crèmes éclat au curcuma.
 
 ## 📚 Formations & Certifications
-- 🎓  Ingénieur recherche en Ingénierie électrique — Université de Lomé (CENTRE D’EXCELLENCE RÉGIONALE POUR LA MAÎTRISE DE L'EXTRICITÉ) 
-- ✅ Attestations : Google Numérique :expert développement web, SecNumAcademie Cybersécurité,
-- OIF niveau avancé développement mobile  
+- Institut Universitaire de Technologie (UDDM) - Licence professionnelle en Électromécanique 
+- 🎓  Ingénieur recherche en Ingénierie électrique (CENTRE D’EXCELLENCE RÉGIONALE POUR LA MAÎTRISE DE L'EXTRICITÉ) 
+- ✅ Attestations :
+-  Google Numérique :expert en Web ,
+-  SecNumAcademie Cybersécurité (France): Panorama de la SSI, Sécurité de l’authentification, Sécurité sur Internet et Sécurité du poste de travail et nomadisme
+- Organisation Internationale de la Francophonie( France): Développement Mobile et Web-Niveau Avancé 
+- Cisco Networking Academy : Maitrise de la Cybersécurité 
 
 ---
 
