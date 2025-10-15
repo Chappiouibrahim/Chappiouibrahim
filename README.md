@@ -81,7 +81,11 @@ Marque de cosmétiques bio proposant des produits naturels : rouges à lèvres, 
 - ✉️ Email : **chappiouibrahim@gmail.com**  
 - 🌍 Localisation : Lomé, Togo  
 - 🔗 LinkedIn : *(www.linkedin.com/in/ibrahim-hassane-chappiou-725285280)*  
-- 📱 WhatsApp : +22799715556 / +22890300249 
+- 📱 WhatsApp : +22799715556 / +22890300249
+- 📸 Instagram : https://www.instagram.com/ibrahimhassanechappiou
+- 📘Facebook : https://www.facebook.com/chappiou.ibrahimhassane.1
+- 🎵 TikTok : https://www.tiktok.com/@chippi19955
+- 🐦 Twitter : https://x.com/chappiou48302
 
 ---
 
