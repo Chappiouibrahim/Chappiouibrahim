@@ -38,25 +38,30 @@ Vous retrouverez ici la plupart des projets que j'ai entrepri, les projets sur l
 -   
 
 🌐 Petits Projets Web Réalisés avec site 123
-Voici une sélection de sites web que j'ai réalisés à l'aide de **SITE123**. Chaque projet présente un objectif et un design spécifique, allant du e-commerce à la vitrine d'entreprise.
+Voici une sélection de sites web que j'ai réalisés à l'aide de **SITE123**.
+Chaque projet présente un objectif et un design spécifique, allant du e-commerce à la vitrine d'entreprise.
 
 ## 1. Élégance & Style – Sarahzou Shop
 **URL** : [67b22297ce592.site123.me](https://67b22297ce592.site123.me)
+
 **Description** :  
 Boutique en ligne dédiée à la mode et à l'élégance, proposant des produits tels que basins, tissus, chaussures, vestes, parfums, pagnes, montres et sacs, ainsi qu'un service de pressing haut de gamme.
 
 ## 2. Maël Shopping Club
 **URL** : [685db7df764c4.site123.me](https://685db7df764c4.site123.me) 
+
 **Description** :  
 Plateforme de commerce en ligne offrant une gamme variée de produits : chaussures, montres, vestes, robes, sacs et basins.
 
  ## 3. Ingénieur.Recherche Chappi
 **URL** : [6790ae51b025f.site123.me](https://6790ae51b025f.site123.me) 
+
 **Description** :  
 Site vitrine présentant les services d'une entreprise spécialisée dans les solutions technologiques et énergétiques : développement de logiciels, conseil informatique, maintenance, installation de panneaux solaires, création de sites web et applications mobiles, et formations pour débutants.
 
 ## 4. Yousss – BB Cosmétique
-**URL** : [6788442c925ab.site123.me](https://6788442c925ab.site123.me)  
+**URL** : [6788442c925ab.site123.me](https://6788442c925ab.site123.me) 
+
 **Description** :  
 Marque de cosmétiques bio proposant des produits naturels : rouges à lèvres, crèmes anti-âge, crèmes hydratantes et crèmes éclat au curcuma.
 
