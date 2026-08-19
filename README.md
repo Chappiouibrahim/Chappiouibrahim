@@ -48,17 +48,6 @@ Chaque projet présente un objectif et un design spécifique, allant du e-commer
 **Description** :  
 Boutique en ligne dédiée à la mode et à l'élégance, proposant des produits tels que basins, tissus, chaussures, vestes, parfums, pagnes, montres et sacs, ainsi qu'un service de pressing haut de gamme.
 
-## 2. Maël Shopping Club
-**URL** : [685db7df764c4.site123.me](https://685db7df764c4.site123.me) 
-
-**Description** :  
-Plateforme de commerce en ligne offrant une gamme variée de produits : chaussures, montres, vestes, robes, sacs et basins.
-
- ## 3. Ingénieur.Recherche Chappi
-**URL** : [6790ae51b025f.site123.me](https://6790ae51b025f.site123.me) 
-
-**Description** :  
-Site vitrine présentant les services d'une entreprise spécialisée dans les solutions technologiques et énergétiques : développement de logiciels, conseil informatique, maintenance, installation de panneaux solaires, création de sites web et applications mobiles, et formations pour débutants.
 
 ## 4. Yousss – BB Cosmétique
 **URL** : [6788442c925ab.site123.me](https://6788442c925ab.site123.me) 
@@ -68,13 +57,15 @@ Marque de cosmétiques bio proposant des produits naturels : rouges à lèvres, 
 
 ## 📚 Formations & Certifications
 - Institut Universitaire de Technologie (UDDM) - Licence professionnelle en Électromécanique 
-- 🎓  Ingénieur recherche en Ingénierie électrique (CENTRE D’EXCELLENCE RÉGIONALE POUR LA MAÎTRISE DE L'EXTRICITÉ) 
+- 🎓  Ingénieur recherche en Ingénierie électrique (CENTRE D’EXCELLENCE RÉGIONALE POUR LA MAÎTRISE DE L'EXTRICITÉ) Université de Lomé 
 - ✅ Attestations :
 -  Google Numérique :expert en Web ,
 -  SecNumAcademie Cybersécurité (France): Panorama de la SSI, Sécurité de l’authentification, Sécurité sur Internet et Sécurité du poste de travail et nomadisme
 - Organisation Internationale de la Francophonie( France): Développement Mobile et Web-Niveau Avancé 
 - Cisco Networking Academy : Maitrise de la Cybersécurité
 - Centre d'expert Maintenance Informatique( Lomé) : Installation des systèmes d'exploitations, réparation PC, diagnostic matériel
+- Engausa global (Nigéria):: système solaire, caméra de surveillance, électricité bâtiments etc...
+- Microsoft et Google et d'autres 
 
 ---
 
