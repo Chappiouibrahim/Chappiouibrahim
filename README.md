@@ -25,18 +25,7 @@ Autres : maintenance hardware, installation panneaux solaires, réseaux
 
 **Maintenance** : installation des systèmes d'exploitations, réparation PC, diagnostic matériel  
 
----
-
-## 📌Projets Réalisés 
-Vous retrouverez ici la plupart des projets que j'ai entrepri, les projets sur les quels j'ai considérablement pris part et l'ensemble des missions non confidentielles et presonnels sur lesquelles j'ai travaillé.
-   
-- **Magazine Infos – Gestion complète des rédacteurs pour un magazine, **Flutter + Firebase**, gestion d’état via **Riverpod**  
-- **App OpenWeather API** — Accès aux données météorologiques via **API REST**  
-- ** Application d'émissions de streaming**
-- **Utilisation de la caméra** — Captures d’images via **image_picker** pour applications mobiles 
-- Élaboration d'une plate-forme de suivi de maintenance de groupes électrogènes assisté  avec l'IA: Ract, vite, firebase , node.js,python
   
-
 ## 📚 Formations & Certifications
 - Institut Universitaire de Technologie (UDDM) - Licence professionnelle en Électromécanique 
 - 🎓  Ingénieur recherche en Ingénierie électrique (CENTRE D’EXCELLENCE RÉGIONALE POUR LA MAÎTRISE DE L'EXTRICITÉ) Université de Lomé 
