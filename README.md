@@ -35,25 +35,7 @@ Vous retrouverez ici la plupart des projets que j'ai entrepri, les projets sur l
 - ** Application d'émissions de streaming**
 - **Utilisation de la caméra** — Captures d’images via **image_picker** pour applications mobiles 
 - Élaboration d'une plate-forme de suivi de maintenance de groupes électrogènes assisté  avec l'IA: Ract, vite, firebase , node.js,python
--   
-
-🌐 Petits Projets Web Réalisés avec site 123.
-
-Voici une sélection de sites web que j'ai réalisés à l'aide de **SITE123**.
-Chaque projet présente un objectif et un design spécifique, allant du e-commerce à la vitrine d'entreprise.
-
-## 1. Élégance & Style – Sarahzou Shop
-**URL** : [67b22297ce592.site123.me](https://67b22297ce592.site123.me)
-
-**Description** :  
-Boutique en ligne dédiée à la mode et à l'élégance, proposant des produits tels que basins, tissus, chaussures, vestes, parfums, pagnes, montres et sacs, ainsi qu'un service de pressing haut de gamme.
-
-
-## 4. Yousss – BB Cosmétique
-**URL** : [6788442c925ab.site123.me](https://6788442c925ab.site123.me) 
-
-**Description** :  
-Marque de cosmétiques bio proposant des produits naturels : rouges à lèvres, crèmes anti-âge, crèmes hydratantes et crèmes éclat au curcuma.
+  
 
 ## 📚 Formations & Certifications
 - Institut Universitaire de Technologie (UDDM) - Licence professionnelle en Électromécanique 
